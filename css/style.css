@@ -260,7 +260,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: 0.5s;
+    transition: 1.5s;
 }
 
 .owl-prev {
